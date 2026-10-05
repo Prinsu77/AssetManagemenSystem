@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "asset-managemen-system-client-side-solution",
+    "id": "cd280436-5557-4183-a926-85a92e1c5c87",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "asset-managemen-system description"
+      },
+      "longDescription": {
+        "default": "asset-managemen-system description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "asset-managemen-system Feature",
+        "description": "The feature that activates elements of the asset-managemen-system solution.",
+        "id": "880945b0-bc20-46c8-ae21-b48b8a10c102",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/asset-managemen-system.sppkg"
+  }
+}
